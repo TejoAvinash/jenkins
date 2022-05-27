@@ -57,3 +57,4 @@ if [[ "${#commitsAndTags[@]}" -gt 0 ]] ; then
       done
   done
 fi
+#this line is edited by tejo need to remove once the task is done
